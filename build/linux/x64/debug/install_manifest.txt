@@ -1,0 +1,16 @@
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/master_resonsive_demo
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/assets/profile.jpg
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/packages/easy_localization/i18n/en-US.json
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/packages/easy_localization/i18n/ar-DZ.json
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/packages/easy_localization/i18n/en.json
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/packages/easy_localization/i18n/ar.json
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/devi/master_resonsive_demo/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
